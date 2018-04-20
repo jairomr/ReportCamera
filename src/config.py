@@ -3,6 +3,7 @@
 import os
 """
 Configuração da pasta do sistema report
+Requer python 2.7
 """
 path = '{}/'.format(os.getcwd()) #"C:/camerasRelatorio/"
 debug = 1
